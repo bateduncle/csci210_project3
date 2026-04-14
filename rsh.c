@@ -100,7 +100,7 @@ int main() {
 
 		else if(strcmp(args[0], "help") == 0)
 		{
-			printf("The allowed commands are\n");
+			printf("The allowed commands are:\n");
 
 			for(int i = 0; i < N; i++)
 			{
